@@ -791,3 +791,144 @@ footer{
 .footer_bottom span a:hover {
     color: #4D8C73;
 }
+
+/*Media Queries Temporary */
+   Media Queries
+--------------------------- */
+@media (max-width: 1200px) {
+.bannerImg{
+    display: none;
+}    
+
+p{
+    font-size:14px;
+}
+.hero_section {
+    position: relative;
+    padding-top: 10px;
+}
+.top_left_cont {
+    padding: 38px 0;
+}
+.top_left_cont h1 {
+    font-size: 38px;
+    line-height: 51px;
+    margin: 0 0 0 0;
+    text-align: left;
+}
+.top_left_cont h2 {
+    font-size: 22px;
+    line-height: 39px;
+    margin: 0 0 9px 0;
+    text-align: left;
+}
+.top_left_cont ul{
+    text-align: left;
+    margin-top: 20px;
+}
+.top_left_cont ul p{
+display: none;
+}
+.inner_section {
+    padding: 20px 0 20px;
+}
+#aboutUs img{
+    margin-bottom:20px;
+}
+#aboutUs h3{
+    font-size:16px;
+    line-height:22px;
+}
+.service_block{
+    margin-bottom:20px;
+}
+.service_block h3 { 
+    font-size: 16px;
+}
+service_block p {
+    font-size: 14px; 
+    margin: 0px;
+    margin-bottom: 20px;
+}
+#filters ul{
+    padding-left:0px;
+}
+.form {
+    margin: 0 18px;
+}
+    .page_section.team{
+    padding: 40px 0;
+}
+, #clients {
+    padding: 40px 0;
+}
+.client_logos ul li {
+    display: inline;
+    margin: 0 25px;
+    padding: 11px 0;
+    display: inline-block;
+}
+.social_links li {
+float: left; 
+}
+.contact_section{
+margin:0;
+}
+h2, .contact_section h2 {
+font-size: 30px;
+}
+.page_section.contact {
+padding: 60px 0 50px;
+} 
+.navbar-inverse .navbar-toggle .icon-bar{
+background:#fff;
+}
+.navbar-inverse .navbar-toggle {
+border-color: transparent;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
+background:none;
+outline: none;
+}
+.navStyle ul li {
+display: block;
+}
+.navStyle {
+float: right;
+width: auto;
+text-align:center;
+}
+.navStyle ul li {
+display: block;
+margin: 0px;
+}
+.navStyle ul li a {
+font-size: 12px;
+padding: 15px 12px;
+}
+.navStyle ul li:last-child {
+margin: 0px;
+} 
+} 
+@media (max-width: 480px){
+.navStyle {
+float: right;
+width: 100%;
+text-align:center;
+}
+h1{
+    font-size: 24px;
+}
+.hero_section{
+   display: none;     
+}
+.team_area {
+width: 99%;
+}
+.member-details {
+padding-left: 0;
+clear: both;
+display: inline-block;
+padding-top: 18px;
+}
+}
