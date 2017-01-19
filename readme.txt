@@ -1,6 +1,18 @@
 Site do Espaço Resiliência
 
-Falta:
+roadmap:
+
+Remover profissionais
+Modular código de adicionar profissional
+Adicionar novos profissionais
+
+Entender o tumblr
+adicionar 1 artigo ao tumblr
+garantir os acessos
+adicionar outros artigos
+
+
+Faltou da versão anterior:
     Colocar as fotos
     Deixar o banner responsivo
     Media queries para texto dos profissionais e do contato
