@@ -24,6 +24,22 @@ Faltou da versão anterior:
 Pessoas para adicionar:
 
 
+Natalia Oliveira Pizol
+Psicóloga clínica e de avaliação bariátrica. 
+Graduada pela Universidade Presbiteriana Mackenzie (UPM). Pós-graduada em Psicoterapia Breve Operacionalizada. Aprimoramento em avaliação para pacientes pré e pós cirurgia bariátrica. Ministra palestra de obesidade infantil para pais/responsáveis e pacientes no ambulatório de obesidade no setor de pediatria no Hospital das Clínicas da Universidade Estadual de Campinas, onde inicia projeto de pesquisa para mestrado. Atendimento em psicoterapia para adolescentes e adultos e crianças apenas no acompanhamento no tratamento de obesidade. 
+
+Bruna Maria Mansano
+
+Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. CRP: 06/85493.
+
+Graduada em Psicologia pela Universidade Paulista de Sorocaba, especialista em Psicologia Clínica pelo CEFAS.
+Curso de Aprimoramento em Saúde Mental Comunitária na Infância e Adolescência na Associação Pró-Reintegração Social da Criança.
+Atuação durante seis anos como Psicóloga do CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil).
+Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).
+ 
+ Atualizar:
+Dra. Adriana Paz Tavares – CRP 06/75045 - Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. Aprimoramento em Psicologia Hospitalar. Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores. 
+
 TEXTO Seções
 sec pics 
 Idealizado com o objetivo de proporcionar o melhor em atendimento especializado ao indivíduo, casal e família. Contamos com profissionais qualificados e ambientes climatizados. 
@@ -33,6 +49,9 @@ Somos Psicólogos, Psiquiatras, Fonoaudiólogos, Psicopedagogos, Massoterapeuta,
 
 sec hero
 Missão- dispor de uma equipe de profissionais competentes e qualificados em proporcionar o melhor atendimento especializado ao indivíduo, casal e família.
+
+
+
 
 
 
