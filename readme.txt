@@ -11,6 +11,17 @@ adicionar 1 artigo ao tumblr
 garantir os acessos
 adicionar outros artigos
 
+skills em modal box http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/
+
+Manter profissionais como estão
+Definir tamanho padrão das fotos
+
+Criar as tags @MEDIA
+
+Mudar o toogle de preto para branco
+
+Editar a logo (pra caber)
+
 
 Faltou da versão anterior:
     Colocar as fotos
@@ -23,22 +34,49 @@ Faltou da versão anterior:
     
 Pessoas para adicionar:
 
+Camila Duarte
+Psicóloga clínica com  abordagem psicanalítica. 
+Graduada em Psicologia pela Universidade Estadual Paulista - UNESP. 
+Atendimento voltado para o público adolescente e adulto.
 
 Natalia Oliveira Pizol
 Psicóloga clínica e de avaliação bariátrica. 
-Graduada pela Universidade Presbiteriana Mackenzie (UPM). Pós-graduada em Psicoterapia Breve Operacionalizada. Aprimoramento em avaliação para pacientes pré e pós cirurgia bariátrica. Ministra palestra de obesidade infantil para pais/responsáveis e pacientes no ambulatório de obesidade no setor de pediatria no Hospital das Clínicas da Universidade Estadual de Campinas, onde inicia projeto de pesquisa para mestrado. Atendimento em psicoterapia para adolescentes e adultos e crianças apenas no acompanhamento no tratamento de obesidade. 
+Graduada pela Universidade Presbiteriana Mackenzie (UPM). Pós-graduada em Psicoterapia Breve Operacionalizada.
+</br>Aprimoramento em avaliação para pacientes pré e pós cirurgia bariátrica. 
+</br>Ministra palestra de obesidade infantil para pais/responsáveis e pacientes no ambulatório de obesidade no setor de pediatria no Hospital das Clínicas da Universidade Estadual de Campinas, onde inicia projeto de pesquisa para mestrado. 
+</br>Atendimento em psicoterapia para adolescentes e adultos e crianças apenas no acompanhamento no tratamento de obesidade. 
 
 Bruna Maria Mansano
 
 Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. CRP: 06/85493.
-
-Graduada em Psicologia pela Universidade Paulista de Sorocaba, especialista em Psicologia Clínica pelo CEFAS.
-Curso de Aprimoramento em Saúde Mental Comunitária na Infância e Adolescência na Associação Pró-Reintegração Social da Criança.
-Atuação durante seis anos como Psicóloga do CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil).
-Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).
+</br>Graduada em Psicologia pela Universidade Paulista de Sorocaba, especialista em Psicologia Clínica pelo CEFAS.
+</br>Aprimoramento em Saúde Mental Comunitária na Infância e Adolescência na Associação Pró-Reintegração Social da Criança.
+</br>Atuação durante seis anos como Psicóloga do CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil).
+</br>Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).
  
  Atualizar:
-Dra. Adriana Paz Tavares – CRP 06/75045 - Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. Aprimoramento em Psicologia Hospitalar. Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores. 
+Dra. Adriana Paz Tavares 
+Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. CRP: 06/75045 
+<p>Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do </br>Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. 
+</br>Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. 
+</br>Aprimoramento em Psicologia Hospitalar. 
+</br>Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores. </p>
+
+
+Letícia Rodrigues da Silveira
+
+Graduada pela Universidade Federal de São Paulo - UNIFESP
+Atendimento de crianças a partir dos 9 anos, adolescentes e adultos.
+Clínica com abordagem psicanalítica.
+
+Atualizar Marcus
+
+Médico com título de especialista em psiquiatria clínica pela AMB/ABP/CFM.
+
+Atendimento de adolescentes (15 anos em diante), idosos e dependentes Químicos.</br>
+Terapia de Brainspotting, tratamento de estresse pós-traumático e trauma em geral.</br>
+Psiquiatria Geral. 
+
 
 TEXTO Seções
 sec pics 
@@ -51,12 +89,7 @@ sec hero
 Missão- dispor de uma equipe de profissionais competentes e qualificados em proporcionar o melhor atendimento especializado ao indivíduo, casal e família.
 
 
-
-
-
-
 Visão-estar entre as principais clínicas da região e ser referência em excelência no atendimento médico e terapêutico prestado ao paciente.
-
 
 
 Valores- valorização e respeito às pessoas e  suas histórias, buscando transformar a dor vivenciada em superação e competência. 
