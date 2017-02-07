@@ -664,8 +664,8 @@ img {
 }
 .author-avatar {
     float: left;
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 280px;
+    max-width: 280px;
 }
 .member-details {
     padding-left: 230px;
