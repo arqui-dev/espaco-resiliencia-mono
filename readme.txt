@@ -78,6 +78,15 @@ Terapia de Brainspotting, tratamento de estresse pós-traumático e trauma em ge
 Psiquiatria Geral. 
 
 
+Odete P. de Oliveira
+
+Psicóloga clínica com abordagem psicanalítica. Atendimento infantil, adolescente e adultos. CRP 06/118870
+
+Graduação em Psicologia Clínica pela Universidade Paulista de Sorocaba.
+</br>Psicóloga com experiência e capacitação em atendimento a vítimas de violência, física, verbal,
+bullying entre outros.
+
+
 TEXTO Seções
 sec pics 
 Idealizado com o objetivo de proporcionar o melhor em atendimento especializado ao indivíduo, casal e família. Contamos com profissionais qualificados e ambientes climatizados. 
