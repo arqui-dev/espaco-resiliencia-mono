@@ -87,6 +87,14 @@ Graduação em Psicologia Clínica pela Universidade Paulista de Sorocaba.
 bullying entre outros.
 
 
+Luciane Leandro de Santana Gomes
+
+Psicóloga clínica com abordagem psicanalítica  CRP 06/124477       
+    
+    <p>Graduação em psicologia pela Universidade Paulista de Sorocaba.                        
+    </br>Atendimento em psicoterapia para criança, adolescente e adulto.                
+    </br>Especializando em terapia sistêmica de casal e família, Instituto sistemas Humanos Sorocaba.</p>
+
 TEXTO Seções
 sec pics 
 Idealizado com o objetivo de proporcionar o melhor em atendimento especializado ao indivíduo, casal e família. Contamos com profissionais qualificados e ambientes climatizados. 
