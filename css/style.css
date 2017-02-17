@@ -74,7 +74,7 @@ body {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 2em;
     color: #fff;
     font-family: 'Overlock', cursive;
     font-style: italic;
@@ -85,7 +85,7 @@ h1 {
 
 
 h2 {
-    font-size: 32px;
+    font-size: 2.2em;
     color: #fff;
     text-shadow: #82BFA6 1px 2px 1px; 
     font-family: 'Overlock', cursive;
@@ -102,12 +102,12 @@ h2.darkTitle{
 h3 {
     font-family: 'Overlock', cursive;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 1.7em;
     margin: 0 0 5px 0;
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 1.6em;
     color: #4D8C73;
     font-family: 'Overlock', cursive;
     font-weight: 400;
@@ -116,8 +116,8 @@ h4 {
 }
 
 h6 {
-    font-size: 16px;
-    color: #65999E ;
+    font-size: 1.4em;
+    color: #56754C;
     font-family: 'Overlock', cursive;
     font-weight: 400;
     text-align: left;
@@ -126,7 +126,7 @@ h6 {
 
 p {
     font-family: 'Overlock', cursive;
-    font-size: 16px;
+    font-size: 1.1em;
     text-align: justify;
 }
 
@@ -227,7 +227,7 @@ p {
 }
 
 /* Top_content
----------------------------------*/
+---------------------------------
 
 .top_cont_outer {
     position: relative;
@@ -251,7 +251,7 @@ p {
 }
 
 /*About Us
----------------------------------*/
+---------------------------------
 
 #aboutUs {
     padding: 28px 0px;
@@ -287,7 +287,7 @@ a.contact_btn:hover {
 
 
 /* News
----------------------------------*/
+---------------------------------
 
 #new {
     padding: 20px 0px 20px;
@@ -339,15 +339,16 @@ a.contact_btn:hover {
 
 
 #gallery {
-    padding: 60px 0px;
+    padding: 60px 0px 60px;
 }
 
 
 .galleryContainer {
-    margin: 0 auto;
+    margin: 60px 0 60px 0;
     padding-left: 15px;
     width: auto !important;
 }
+
 
 .gallery-box {
     text-align: center;
@@ -547,7 +548,7 @@ img {
 /* gallery */	
 	
 .container.gallery_title {
-    padding-bottom: 12px;
+    padding-bottom: 0px;
 }
 
 #gallery {
@@ -681,8 +682,8 @@ img {
 .designation {
     display: inline-block;
     padding-bottom: 5px;
-    font-size: .81em;
-    color: #b2b2b2;
+    font-size: 1.2em;
+    color: #82BFA6;
     letter-spacing: .4px;
 }
 .member-social-link a {
