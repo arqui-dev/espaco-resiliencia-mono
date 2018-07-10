@@ -1,0 +1,31 @@
+/* This is the basic CSS base to work with this application, global properties of style goes here */
+/* colors:
+#82BFA6 green cover
+#E3EDF9 Background
+#56754C green title
+#65999E text blue
+#4D8C73 title text blue
+#82BFA6 green lines
+#394E32 Blog title 
+#219A93 Facebook page */
+/* Fonts */
+
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Overlock:400,900italic,700);
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  height: 100%;
+  background: #E3EDF9;
+  font-family: 'Overlock', cursive;
+  color: #65999E;
+}
+/* To grant footer is in place */
+section {
+    flex: 1;
+}
+.jungle-green-background{
+  background-color: #219A93;
+}
