@@ -1,13 +1,9 @@
 /* This is the basic CSS base to work with this application, global properties of style goes here */
 /* colors:
-#82BFA6 green cover
-#E3EDF9 Background
-#56754C green title
+#219A93 green base
+#E3EDF9 blue background
 #65999E text blue
 #4D8C73 title text blue
-#82BFA6 green lines
-#394E32 Blog title 
-#219A93 Facebook page */
 /* Fonts */
 
 @charset "utf-8";
@@ -25,6 +21,12 @@ body {
 section {
     flex: 1;
 }
-.jungle-green-background{
+.base-green-background{
   background-color: #219A93;
+}
+.navbar-item{
+  color: #fff;
+}
+a.navbar-item:hover{
+  color: #219A93;
 }
