@@ -1,0 +1,14 @@
+.hero.bg-img {
+  background: linear-gradient(
+      rgba(33,154,147,0.9),
+      rgba(33,154,147,0.6)
+    ), url('../assets/tom-ezzatkhah-103592-unsplash.jpg') no-repeat center;
+    /* Photo by Aaron Burden on Unsplash */
+    /* Photo by Tom Ezzatkhah on Unsplash */
+    max-height: 64vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
