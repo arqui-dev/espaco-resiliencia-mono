@@ -19,6 +19,9 @@ body, html{
 section {
     flex: 1;
 }
+.green-text{
+  color: rgba(33,154,147,1);
+}
 .green-background{
   background-color: rgba(33,154,147,0.1);
 }
