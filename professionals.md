@@ -42,17 +42,17 @@ Médico com título de especialista em psiquiatria clínica pela AMB/ABP/CFM.
 Atendimento de adolescentes (15 anos em diante), idosos e dependentes Químicos.
 Terapia de Brainspotting, tratamento de estresse pós-traumático e trauma em geral.
 Psiquiatria Geral.
-
+**
 Leticia Rodrigues da Silveira
-Psicológa, CRP 06/124364
-Psicológa clínica com abordagem psicanalítica. Graduada pela Universidade Federal de São Paulo - UNIFESP
+Psicóloga, CRP 06/124364
+Psicóloga clínica com abordagem psicanalítica. Graduada pela Universidade Federal de São Paulo - UNIFESP
 Especializanda em Psicoterapia da Criança e do Adolescente.
 Psicológa no CAPS-IJ (Centro de Atenção Psicossocial Infantojuvenil )
 Atendimento de crianças (a partir dos 06 anos), adolescentes e adultos.
 
 Camila Duarte
 Psicóloga, CRP: 06127067
-Psicóloga clínica com abordagem psicanalítica
+Psicóloga clínica com abordagem psicanalítica.
 Graduada em Psicologia pela Universidade Estadual Paulista - UNESP. 
 Atendimento voltado para o público adolescente e adulto.
 
@@ -65,7 +65,7 @@ Ministra palestra de obesidade infantil para pais/responsáveis e pacientes no a
 Atendimento em psicoterapia para adolescentes e adultos e crianças apenas no acompanhamento no tratamento de obesidade.
 
 Bruna Maria Mansano
-Psicóloga CRP 06/85493.
+Psicóloga CRP 06/85493
 Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. 
 Graduada em Psicologia pela Universidade Paulista de Sorocaba, 
 Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. 
