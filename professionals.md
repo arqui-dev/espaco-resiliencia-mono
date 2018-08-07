@@ -84,7 +84,7 @@ Psicóloga clínica com abordagem psicanalítica.
 Graduação em psicologia pela Universidade Paulista de Sorocaba. 
 Atendimento em psicoterapia para criança, adolescente e adulto. 
 Especializando em terapia sistêmica de casal e família, Instituto sistemas Humanos Sorocaba.
-
+**
 Mirella Lopes de Paula
 Psicóloga, CRP 06/52310
 Atendimento a adolescentes, adultos e idosos. Grupos de Arteterapia.
@@ -95,7 +95,7 @@ Aprimoramento em Psicoterapia de grupo pelo EPPA.
 Aprimoramento em gravidez, parto e puerpério (aspectos psicológicos) pelo Instituto Sedes Sapientiae.
 
 Gleice Karen Silva Pereira
-Psicóloga, CRP 06/134613.
+Psicóloga, CRP 06/134613
 Psicóloga clínica com abordagem Comportamental.
 Graduada em Psicologia pela Universidade Paulista em Sorocaba. 
 Pós-graduanda em Psicogerontologia Psicoterapeuta na abordagem Comportamental e orientada em Mindfulness (técnica que auxilia na regulação da atenção a fim de que ela seja mantida na experiência imediata, permitindo desse modo maior reconhecimento dos eventos mentais no momento presente). 
@@ -126,7 +126,7 @@ Atendimentos para todas as idades (crianças a partir dos 6 anos).
 Atendimentos individuais e grupais. Cursando PBO (Psicoterapia Breve Operacionalizada).
 
 Renata M. C. Garcia Boneto
-Psicopedagoga. 
+Psicopedagoga
 Atendimento a distúrbios e dificuldades de aprendizado.
 Pedagoga com experiência em sala de aula, na inserção de alunos com dificuldades ou distúrbios de aprendizado. 
 Atendimento de crianças, adolescentes e adultos.
