@@ -26,11 +26,19 @@ section {
   background-color: rgba(33,154,147,0.1);
 }
 .navbar-item{
-  color: #fff;
+  color: #219A93
 }
 a.navbar-item:hover{
-  color: #219A93;
+  color: #fff;
 }
+@media only screen and (min-width: 1087px){
+  .navbar-item{
+    color: #fff;}
+    a.navbar-item:hover{
+      color: #219A93;
+  }
+
+
 @media only screen and (max-width: 768px){
   .logo{
     min-width: 48px;
