@@ -37,8 +37,6 @@ a.navbar-item:hover{
     a.navbar-item:hover{
       color: #219A93;
   }
-
-
 @media only screen and (max-width: 768px){
   .logo{
     min-width: 48px;
