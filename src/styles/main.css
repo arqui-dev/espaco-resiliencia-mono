@@ -1,0 +1,57 @@
+/* This is the basic CSS base to work with this application, global properties of style goes here */
+/* colors:
+$primary: #219A93;
+$link: #009DB3;
+$info: #5E8AD7;
+$success: #7FD134;
+$warning: #F9F871;
+$danger: #FF90A7;
+/* Fonts */
+
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Overlock:400,900italic,700);
+
+body, html{
+  display: flex;
+  flex-direction: column;
+  background-color: #E3EDF9;
+  font-family: 'Overlock', cursive;
+}
+/* To grant footer is in place */
+section {
+    flex: 1;
+}
+.fix-height{
+  max-height: 128px !important;
+}
+.green-text{
+  color: rgba(33,154,147,1);
+}
+.green-background{
+  background-color: rgba(33,154,147,0.1);
+}
+.navbar-item{
+  color: #219A93
+}
+a.navbar-item:hover{
+  color: #fff;
+}
+@media only screen and (min-width: 1087px){
+  .navbar-item{
+    color: #fff;}
+    a.navbar-item:hover{
+      color: #219A93;
+  }
+}
+@media only screen and (max-width: 768px){
+  .logo{
+    min-width: 48px;
+    min-height: 48px;
+  }
+}
+@media only screen and (min-width: 769px){
+  .logo{
+    min-width: 64px;
+    min-height: 64px;
+  }
+}
