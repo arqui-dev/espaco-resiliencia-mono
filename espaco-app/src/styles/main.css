@@ -1,9 +1,11 @@
 /* This is the basic CSS base to work with this application, global properties of style goes here */
 /* colors:
-#219A93 green base
-#E3EDF9 blue background
-#65999E text blue
-#4D8C73 title text blue
+$primary: #219A93;
+$link: #009DB3;
+$info: #5E8AD7;
+$success: #7FD134;
+$warning: #F9F871;
+$danger: #FF90A7;
 /* Fonts */
 
 @charset "utf-8";

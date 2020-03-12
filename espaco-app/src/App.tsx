@@ -1,9 +1,18 @@
 import React from 'react';
-import 'react-bulma-components/basic/react-bulma-components.min.css';
+
+import 'bulma/css/bulma.css';
+import './styles/main.css';
+
+import { UnitList } from './components/units';
+import { ProfessionalList } from './components/professionals';
+import { Header } from './components/headar';
 
 function App() {
   return (
     <>
+      <Header />
+      <UnitList />
+      <ProfessionalList />
     </>
   );
 }
