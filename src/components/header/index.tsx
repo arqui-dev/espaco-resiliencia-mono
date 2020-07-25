@@ -8,7 +8,7 @@ export const Header = () => {
         <nav className="navbar">
           <div className="container">
             <div className="navbar-brand">
-              <a className="navbar-item" href="#">
+              <a className="navbar-item" href="https://espaçoresiliencia.com">
                 <img className="image logo" src={require("../../assets/logo.png")} alt="Espaço Resiliência - Atendimento ao indivíduo, casal e família" />
                 <span className=" is-inline-block">
                   <h1 className="is-size-5 is-size-4-mobile has-text-weight-semibold has-text-white">Espaço Resiliência</h1>
@@ -23,9 +23,8 @@ export const Header = () => {
             </div>
             <div id="navMenu" className="navbar-menu base-green-background">
               <div className="navbar-end">
-                <a href="#" className="navbar-item is-size-4-mobile is-size-5">Início</a>
                 <a href="#team" className="navbar-item is-size-4-mobile is-size-5">Equipe</a>
-                <a href="#contact" className="navbar-item is-size-4-mobile is-size-5">Contato</a>
+                {/* <a href="#contact" className="navbar-item is-size-4-mobile is-size-5">Contato</a> */}
               </div>
             </div>
           </div>
