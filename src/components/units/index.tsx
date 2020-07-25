@@ -11,7 +11,7 @@ export const UnitList = () => {
                 <h2 className="is-title green-text has-text-weight-bold has-text-centered is-size-1"> Unidades </h2>
             </div> 
             <div className="columns is-mobile is-centered is-multiline">
-                {units.map((element: { picture: string; unitName: string; address: string; phone: string; whatsapp: string; maps: string; }) => {
+                {units.map((element: { picture: string; unitName: string; address: string; phone: string; whatsapp: string; maps: string }) => {
                     return(
                         <div className="column is-12-mobile is-6-tablet is-5-desktop is-4-widescreen">
                             <div className="card">
@@ -32,7 +32,7 @@ export const UnitList = () => {
                                         <p className="subtitle is-size-6-mobile is-size-5"><i className="fab fa-whatsapp"></i>  {element.whatsapp}</p>
                                     </div>
                                     <footer className="card-footer">
-                                        <iframe className="google-map-card" src={element.maps}></iframe>
+                                        <iframe className="google-map-card" title={element.unitName} src={element.maps}></iframe>
                                     </footer>
                                 </div>
                             </div>
