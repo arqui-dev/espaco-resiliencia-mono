@@ -1,5 +1,6 @@
 import React from "react";
 import './home.css';
+import logo from '../../assets/logo.png';
 
 export const Header = () => {
   return (
@@ -9,7 +10,9 @@ export const Header = () => {
           <div className="container">
             <div className="navbar-brand">
               <a className="navbar-item" href="https://espaçoresiliencia.com">
-                <img className="image logo" src={require("../../assets/logo.png")} alt="Espaço Resiliência - Atendimento ao indivíduo, casal e família" />
+                <figure className="image is-64x64">
+                  <img className="image logo" src={logo} alt="Espaço Resiliência - Atendimento ao indivíduo, casal e família" />
+                </figure>
                 <span className=" is-inline-block">
                   <h1 className="is-size-5 is-size-4-mobile has-text-weight-semibold has-text-white">Espaço Resiliência</h1>
                   <h3 className="is-size-6 is-hidden-mobile has-text-weight-semibold has-text-white">Atendimento especializado ao indivíduo, casal e família.</h3>
