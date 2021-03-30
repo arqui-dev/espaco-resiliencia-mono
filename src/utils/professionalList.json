@@ -1,180 +1,273 @@
 [
     {
+        "_id": 0,
         "name": "Lucimeire Prestes de Oliveira Tomé",
         "specialty": "Psicóloga e Pedagoga",
         "register": "CRP: 06/70244",
         "health_plans": "",
         "description": "Proprietária do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue e Conversando Sobre Crianças.",
-        "picture" :"https://y02stg.ch.files.1drv.com/y4mEI5c5Tn_X_tJZWV6W4EC5VdAkmuOLem1P-DKpeS5PAnF3H4SuX_infatEB5tXJIcnImJaLPnbToxP_s4NRngvoDosnqYhugi1ITzopLHiImchiWgX7b_R1043EjHDEFV-fLjf38OFxH58moa_g25wHuT6IymJcTPtoxxRa-WxaDAz4_DSoR8WT_BtUAY0bIy0B2M6ejgQG9LWnTqpOd3PQ?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 1,
         "name": "Adriana Paz Tavares",
         "specialty": "Psicóloga",
         "register": "CRP: 06/75045",
         "health_plans": "",
         "description": "Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. Aprimoramento e Psicologia Hospitalar. Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores.",
-        "picture" :"https://nkufng.ch.files.1drv.com/y4mEq7c9A2Wspxp2e7S6_7ZX8rmFJKpmCDcGk2H-C7nN1jvl9BBthbumK4e29ifJUTMY6xgY3r4QKt5c7PBhdCWq94vEPP78a-K_dz83il2l4Uuj7XN-kQ2t19uXU3UBQcM8oDkNauhPn6HikdzpP5xIaFROADaSJfgnSi4KycsqG4vDuPzi_2nirPE_D_kuCyQ8cQZvSZPeuQzTdbH_hvAKQ?width=524&height=536&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 2,
         "name": "Flavia Regina Ribeiro Silva",
         "specialty": "Psicóloga",
         "register": "CRP: 06/77354",
         "health_plans": "",
         "description": "Psicóloga especialista em Psicologia Clínica. Graduação em Psicologia pela Universidade Paulista de Sorocaba. Especialização em Psicopatologia e Psicooncologia pelo Cefas. Especializanda em Psicologia Clínica pelo Cefas. Psicóloga na Oficina Terapêutica na Associação Pró-Reintegração Social da Criança. Psicoterapeuta Infantil/Adolescente e Adulto. Experiência na área da saúde mental.",
-        "picture" :"https://dfdbsw.ch.files.1drv.com/y4mKcA73Bo9bRhhACtRKwmM-Eqq2pZw6YvHc0pWpQG085HskFMYf-6j72iZ2qXB-U53l8VH0j1sTURUxuMahXD0HS8uu-9nbnIfMIe7nSAQG1yqaFiaZgWaUlgE1Yy7VC4bQrYB32JDyGOQqbo7W-SjIQuaek0AkKKyWqkKascGd2yo4GLybasDBR90PrW7w_VIextXrGIfkLNrO7VIJFRVLA?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 3,
         "name": "Miriam Elaine Correa Martins Rodriguez",
         "specialty": "Psicóloga",
         "register": "CRP: 06/106404",
         "health_plans": "",
         "description": "Graduação em Psicologia pela Universidade Paulista de Sorocaba. Especialização em Psicoterapia Breve Operacionalizada UNIP. Especializanda em Psicoterapia Psicanalítica pela USP-SP. Psicoterapia Infantil/Adulto/Casal. Aprimoramento em Avaliação Psicológica para Cirurgia Bariátrica.",
-        "picture" :"https://0ptwew.ch.files.1drv.com/y4m_VcPedgcGr9TXroFiW9RKCkUBQzsKjU_HuphJAs70id0dp9Jb31bG7Gz5npP2UBNLBbCIMsZVljRXourl3AspI8Gdi33goHAsDZ43tzFFOC3Zy5pwFFElbu6AZc-3Fdk3uhyA_X_pbSCoD3w-eR7jtvOxatW8rpsolA-HwY2ft9VhrHe1WpksAcbiyz97Z4Vsrt_wAK-7laqlquoeVqNjw?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 4,
         "name": "Maria Angélica",
         "specialty": "Psicóloga",
         "register": "CRP: 06/108856",
         "health_plans": "",
         "description": "Graduada em Psicologia e Pós Graduada em Psicoterapia Breve Operacionalizada pela Universidade Paulista. Psicoterapia Infantil, Adolescente e adulto. Clínica com abordagem psicanalítica, aplicação de testes psicológicos e realização de teste vocacional. Experiência em Oficina Terapêutica.",
-        "picture" :"https://2dscqq.ch.files.1drv.com/y4mN4Kz96J7McwseYDygcUfhvpMs-rJnJSsrG_Ts0XSyV0EO995436TxreJBP5191EvMHFpEUwxUGB6e2PgCXEpJlg7YfsgKZoOBhgcKCZHE8ZWgOd8VrmpzrEfvVi_aGG-rWs8kResveKIf4MSAcIOx6nB8XUJsdTYIV7aW6sDUWM1ahAyU9Tu38ZrA7feJ-abRa5DnwYuTsJ8uhGTOW4n-A?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 5,
         "name": "Marcus Christian Santana Leal Feitoza",
         "specialty": "Psiquiatra",
         "register": "CRM -SP 121761/RQE-39056",
         "health_plans": "UNIMED e FUNSERV",
         "description": "Médico psiquiatra com título de especialista pela Associação Brasileira de Psiquiatria. Experiência no atendimento de adolescentes ( a partir dos 15 anos), adultos e idosos.  Terapia de Brainspotting no tratamento dos quadros de trauma. Convênios : UNIMED e FUNSERV.",
-        "picture" :"https://dfdesw.ch.files.1drv.com/y4miMmBgE99_dh7Un6QcY7eA3BBgrsWKn0dTFbvkVxEvSL9nXSM57r3_vWmRJWyfFe5cCfWss8RIW4fSLEUYw7jRVZKBD7C2XEnCKpBbQF4GtL2wNG7MgRHKIyJXBzbSXvrXCNCPJwto3uA-w1cwKJjCB8v919TdhAEwM-c4f62Ng6McdcgNIruqlvxX0iD7o6kXqva2QpN_PI1Nwj9iJZZmQ?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 6,
         "name": "Camila Duarte",
         "specialty": "Psicóloga",
         "register": "CRP: 06127067",
         "health_plans": "",
         "description": "Psicóloga clínica com abordagem psicanalítica. Graduada em Psicologia pela Universidade Estadual Paulista - UNESP.  Atendimento voltado para o público adolescente e adulto.",
-        "picture" :"https://nyat2q.ch.files.1drv.com/y4m0zC20C8ll3cvhiubb_0eVPWK92SxEcQkHVyUIJoUAuHlZddhZb76X2kymxN6J37o6up6qzOFa3l2s2zLoSdZdvJfickuAz8Aw9OiPI3nPrxsF8NOly4Iy-pFiQy0XPcUiQYMdHYVcNpgoExdPw_ADulYnNG0zLK0fcAaFP7kZuWV3cTGAIJvrXfeC__U-JdAnJloRKkekGoGBKgxzy3uSA?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 7,
         "name": "Bruna Maria Mansano",
         "specialty": "Psicóloga",
         "register": "CRP: 06/85493",
         "health_plans": "",
         "description": "Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. Graduada em Psicologia pela Universidade Paulista de Sorocaba, Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. Atuou como Psicóloga no CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil). Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).",
-        "picture" :"https://atfekw.ch.files.1drv.com/y4mggFyGw8HSVh0lknHrzHAgz04yVSqLju1eqNltYgICK0dGe6n05cJKxDbg7e6KLkwswZYTjKSCDtevrdICo2tSKd_0ckdWxGJ3HFQ3kdmcfO-Ed1OuuombfgrHxgAebpdlZKhSFgvlNG5ysSLKOpG0rrFvqjor1LH3Qt4-PFWRnz47S6Nyq_ZQJ6YVvZyKouxjTGZLnAe8PHLWZRlzcTQ8w?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 8,
         "name": "Odete P. de Oliveira",
         "specialty": "Psicóloga",
         "register": "CRP: 06/118870",
         "health_plans": "",
         "description": "Psicóloga clínica com abordagem psicanalítica. Atendimento infantil, adolescente e adultos. Graduação em Psicologia Clínica pela Universidade Paulista de Sorocaba. Psicóloga com experiência e capacitação em atendimento a vítimas de violência, física, verbal, bullying entre outros.",
-        "picture" :"https://lwrccq.ch.files.1drv.com/y4mqSU5pGKIBLuGzuUGw8FVLFXxu1UPOKNZxvKfRyg4knTBAuSU1k36Cp8cUSGDLO2Y5FM44r9FulEd7jClNtk5jfYkMJelQs95Ir9RzT9NtuCkTDNDylspE2tfjYQJsoZS_9-fx8YH_BDkyVGSOhTRFLQJHxUCfsQX6MvsrIq71sAwhjtPALmpY0uHjSpAHCYeRU4zt4iQu9P72GkPQ7sB2w?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 9,
         "name": "Mirella Lopes de Paula",
         "specialty": "Psicóloga",
         "register": "CRP: 06/52310",
         "health_plans": "",
         "description": " Psicóloga Clínica, realiza atendimentos a adolescentes e adultos. Especialização em Terapia Cognitivo Comportamental pelo CETCC. Especialização em Artetetapia pelo NAPE - FAVI. Formação em Psicologia Hospitalar pela PUC - SP. Aprimoramento em Psicoterapia de Grupo pelo EPPA. Aprimoramento em gravidez, parto e puerpério (aspectos psicológicos) pelo Instituto Sedes Sapientiae.  Aprimoramento em Suicídio e Manejo do Comportamento Suicida ministrado pela psicóloga Dra. Karina Okajima Fukumitsu. Curso de Capacitação em Terapia Online - Instituto Terapia Online.",
-        "picture" :"https://ze2tjg.ch.files.1drv.com/y4mbH0-djt6tQE7d56OQFgzToUsOuj6_VxiMq4KEyGShiRXx83odbBhlg4z4DBJMALUVBPzeyWlZrnMURfSUuMJEWejC_DYzg3EbHydmzOk24haRzFkEpf3DmSdvf1Xh62KKhyHGMfdA2OPtdy89DKhHl2lr1OuB-WE25aaE20ZBBZ7WBft7arhXFhwSaDngLuypUR7Yi5_J0KWEuzNuoLYoA?width=280&height=280&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 10,
         "name": "Edivânia J. de A. Moura",
         "specialty": "Psicóloga",
-        "register": "CRP 06/119021",
+        "register": "CRP: 06/119021",
         "health_plans": "",
-        "description": "Terapeuta Sistêmica de Casal e Família. Coordenadora de Grupos Operativos. Atendimentos voltados à Casal ou família, vivenciando conflitos; no intuito de um novo olhar para o modo que sempre utilizaram para resolução dos problemas relacionais e não continuam eficazes. Adolescentes; visando percepção de sua fase de transição, com estimulação ao autoconhecimento e fortalecimento de suas potências. Também, adolescentes em conflito com a Lei – Prática Infracional. Adulto e criança; objetivando clareamento de seus sentimentos, frente suas relações e o que considera problema. Formação: Psicologia - Universidade Paulista Instituto Integrar “Pensar, Sentir e Agir”. Instituto Sistemas Humanos – Práticas Sistêmicas  Cursos:  Curso do Teste HTP – Desenho da Casa, Árvore, Pessoa – Realização: Vetor editora.  Curso de Avaliação Psicológica e Elaboração de Laudos – Realização: Vetor editora.  Curso de Gerontologia: Introdução à Clínica do Envelhecimento – Realização: “Psicologia do Cotidiano”.  Curso de Aperfeiçoamento em Crack e outras Drogas – Realização: CRR-UFSCar-Sorocaba.  Curso “Saúde da População Negra” – Realização UNA-SUS.  Seminários:   Criança e Adolescente – Ato Infracional. (OAB – Departamento de Cultura e Eventos)  Drogas e Direitos Humanos: a construção de redes humanizadas de atenção e cuidado. Realização CRR-UFSCar-Soroca e CRP – Conselho Regional de Psicologia SP, em parceria com a Defensoria Pública do Estado de São Paulo.  Eventos: Psicologia em Interface com a Justiça: “Contribuições da Psicologia nos caminhos do judiciário: da destituição  poder familiar à adoção”. CRP/SP   Mestre “Cuca” na dissertação e mestrado “Lacan e o Estruturalismo” – Maria Cristina Merlin Felizola. Encontro de Saúde Mental da Infância e Adolescência – Realização Associação Pró Reintegração Social da Criança.   Palestras:   “120 anos de Abolição: o que mudou?” – Escola para Formação e Capacitação Profissional da Fundação CASA – SP  ",
-        "picture" :"https://2dszqq.ch.files.1drv.com/y4mqkqIw9JquyJFAguINcpLonJoAEGL7HGGvPfJtMH7hr7iemxQSEAqRlSPh_6aEZniXTQr0xLKDCEZLEU3154I0Lw4LJGFYxyDXtbgyS6HsXpTHN1O9QyVhr5REy1yBXBpYyK8ZH0LWnirAus9oAtdFbAw1RlpnL1O09wtxQans9eL52YPqUz0wDQt3DTqJ8ZKnpnKnnPypzxlq14fM8-joA?width=3376&height=3651&cropmode=none"
+        "description": "Terapeuta Sistêmica de Casal e Família. Coordenadora de Grupos Operativos. Atendimentos voltados à Casal ou família, vivenciando conflitos; no intuito de um novo olhar para o modo que sempre utilizaram para resolução dos problemas relacionais e não continuam eficazes. Adolescentes; visando percepção de sua fase de transição, com estimulação ao autoconhecimento e fortalecimento de suas potências. Também, adolescentes em conflito com a Lei – Prática Infracional. Adulto e criança; objetivando clareamento de seus sentimentos, frente suas relações e o que considera problema. Formação: Psicologia - Universidade Paulista Instituto Integrar “Pensar, Sentir e Agir”. Instituto Sistemas Humanos – Práticas Sistêmicas  Cursos:  Curso do Teste HTP – Desenho da Casa, Árvore, Pessoa – Realização: Vetor editora.  Curso de Avaliação Psicológica e Elaboração de Laudos – Realização: Vetor editora.  Curso de Gerontologia: Introdução à Clínica do Envelhecimento – Realização: “Psicologia do Cotidiano”.  Curso de Aperfeiçoamento em Crack e outras Drogas – Realização: CRR-UFSCar-Sorocaba.  Curso “Saúde da População Negra” – Realização UNA-SUS.  Seminários:   Criança e Adolescente – Ato Infracional. (OAB – Departamento de Cultura e Eventos)  Drogas e Direitos Humanos: a construção de redes humanizadas de atenção e cuidado. Realização CRR-UFSCar-Soroca e CRP: – Conselho Regional de Psicologia SP, em parceria com a Defensoria Pública do Estado de São Paulo.  Eventos: Psicologia em Interface com a Justiça: “Contribuições da Psicologia nos caminhos do judiciário: da destituição  poder familiar à adoção”. CRP:/SP   Mestre “Cuca” na dissertação e mestrado “Lacan e o Estruturalismo” – Maria Cristina Merlin Felizola. Encontro de Saúde Mental da Infância e Adolescência – Realização Associação Pró Reintegração Social da Criança.   Palestras:   “120 anos de Abolição: o que mudou?” – Escola para Formação e Capacitação Profissional da Fundação CASA – SP  ",
+        "picture" : true
     },
     {
+        "_id": 11,
         "name": "Luciana A. A. Pires",
         "specialty": "Psicóloga",
-        "register": "CRP 06/119915",
+        "register": "CRP: 06/119915",
         "health_plans": "",
         "description": "Graduada em psicologia e especialista em Psicoterapia Breve Operacionalizada com Orientação Psicanalítica pela Universidade Paulista de Sorocaba. Experiência no atendimento a vítimas de violência e questões relacionadas ao uso de substâncias psicoativas. Atendimento à crianças, adolescentes e adultos",
-        "picture" :""
+        "picture" : true
     },
     {
+        "_id": 12,
         "name": "Wellington Alencar Carvalho",
         "specialty": "Psiquiatra",
         "register": "CRM 120.367",
         "health_plans": "",
         "description": "Graduação em Medicina pela USP. Pós graduação em residência de Medicina Interna e Psiquiatria. Especialista em Psiquiatria pela Associação Brasileira de Psiquiatria. Experiência em psiquiatria geral, Atendimento de adolescentes e adultos.  ",
-        "picture" :""
+        "picture" : false
     },
     {
+        "_id": 13,
         "name": "Fabiana Paulosso Manella",
         "specialty": "Psicóloga Comportamental",
-        "register": "CRP 72153",
+        "register": "CRP: 72153",
         "health_plans": "",
         "description": "Pós graduação em Acupuntura Sistêmica Auricular e Acupuntura Quantica Bioenergética. Tratamento com adolescentes e adultos.",
-        "picture" :""
+        "picture" : false
     },
     {
+        "_id": 14,
         "name": "Nires Cristina Palhares Castro Strachicini",
         "specialty": "Psicóloga",
-        "register": "CRP 06/52396-5",
+        "register": "CRP: 06/52396-5",
         "health_plans": "",
         "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduanda em Psicologia Positiva pela PUCRS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF.  Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento em Espanhol e Inglês.",
-        "picture" :"https://ch3302files.storage.live.com/y4mqaLVNgzmcUKF-KDr-KEZd3EQRKEidvmuzWBjgT99vxHmlVw5X4EqK7kaHY36U66IpAu2h43VDJJ95QQ8ZEMzjNLXLpq21AH8SjAM_JPGjKbY-AvSfswCNjIhV7DG4LEiqr9gtpwLHVN1WHi-8D2C3uFj8CgvvlITsneGhjw07poFBVl9vGQUay94EAShfMb5?width=660&height=660&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 15,
         "name": "Cristiane Crispim",
         "specialty": "Psicóloga",
-        "register": "",
+        "register": "CRP: 113704",
         "health_plans": "",
         "description": "Psicóloga Clínica graduada pela Universidade Paulista Atendimento para adolescentes, adultos e casais em Fenomenológica- Existencial. PSICOTERAPIA e PLANTÃO PSICOLÓGICO",
-        "picture" :"https://dvdgsw.ch.files.1drv.com/y4mnZWFuizdYvCH9KC3OyhGCmrpRAqeww0oYFFDrkfCAm4iQDoZTuFo3VzXyifPXebY6CXFvz6f69YKzgKvRZ4rcSayIAVGHhZP5KA3mYttm8tjpLTTYep8G-Gfh1tTxZt6K82DZh7ule7GWHn6MTi2kxkj7Ffk43dfB39E2yxIVkLOesHYw8Yzhd5AtT7vNn0R-tFSAohSJQF-nN-fUI4saQ?width=554&height=554&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 16,
         "name": "Jaine Murat de Oliveira",
         "specialty": "Psicóloga",
-        "register": "CRP 06/157485",
+        "register": "CRP: 06/157485",
         "health_plans": "",
         "description": "Graduada em Psicologia pela Universidade Paulista - UNIP. Realiza atendimento de crianças, adolescentes e adultos, com orientação psicanalítica.",
-        "picture" :"https://05tyew.ch.files.1drv.com/y4m--NE0Bs_6vsYa0t_M6BztRARVj3n_nQWUcvq9mK2hlJEW2mzrjtpLQvt_ZU1qYlHeBLHSsEe0myNUjWTuSLGVIslIvxQO-sgkjV_W1X0eGQZxeQbP35mQFCIVyKNQK-bDWkuK6VW0RiJNCW1eC-3nCKh3pYC75jTF32-_ohTrC7P4R60hjgyl12mImc3MwJ1q1wVztC3HMBFtnkx9dqYtA?width=959&height=914&cropmode=none"
+        "picture" : true
     },
-    
     {
+        "_id": 17,
         "name": "Érica Bonfá",
         "specialty": "Psicóloga",
-        "register": "",
+        "register": "CRP: 76495",
         "health_plans": "",
         "description": "Psicóloga Clínica graduada pela Universidade Presbiteriana Mackenzie. Pós graduação em Psicologia Hospitalar. Especialista em Neuropsicologia. Atendimento em psicoterapia com abordagem psicanalítica e avaliação neuropsicológica para crianças, adolescentes e adultos.",
-        "picture" :"https://ocax2q.ch.files.1drv.com/y4mWRX9Ig6d2_WNGKXj7cmidKcyLe4HCMuD6JTRCSTzufz9PZeLo2LT9RN_Vkq1YDOtPvJuzhxh7wMNY5bXFiolt0vSi1C8jCQg1Q2I7LqjPy6cGLXhLrAcLTDaejWUmHSOsRJBa7LcZa7GWIPw5DbF7oaARBzedPDcQIMaQ0UtqYwruUCv5UKmqp96-Qej6_0OyVHu9JSw9LHlS1eziTp0Ag?width=462&height=445&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 18,
         "name": "Elisvania Mendes Lima Zampieri",
         "specialty": "Psicóloga",
-        "register": "CRP 06/160080",
+        "register": "CRP: 06/160080",
         "health_plans": "",
         "description": "Psicologa formada pela Universidade de Sorocaba, atendo na abordagem da psicanálise, cursando pós em desenvolvimento infantil pela faculdade metropolitana. Experiência em atendimento de adolescentes e jovens com ansiedade e depressão, crianças a partir de 4 anos e adultos.",
-        "picture" :"https://ch3302files.storage.live.com/y4mffdqpHWivTp-CZqBp9RWN7EWIq64WUt6uX4OwHaBKjYknsp7cTD3y7qosZsGDRLxb5ThWoidRcM_rVKcgoMdblWBdRHnwyNgkFQgyJRiCsRwCSIFxfEFkG8nrgbtSmLauPEFoGpe-mTinxwrgSB_g7LoMVqdmTxH7me88gHxXZw8GxwgCgc2YLxVdVt2Kflu?width=424&height=424&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 19,
         "name": "Roberta Barbero Gabriotti",
         "specialty": "Psicóloga",
-        "register": "CRP 06/69778",
+        "register": "CRP: 06/69778",
         "health_plans": "",
         "description": "Psicóloga Clínica, Especialização em Infância, Adolescência ,Psicopatologia Atendimento Grupal e Violência Doméstica. Experiência de mais de 20 anos em Saúde Mental Realizo Supervisão de Psicólogos, Avaliação Psicológica, Avaliação Intelectual, Avaliação Bariátrica e Atendimento em inglês. Crianças sem restrição de idade, adolescentes e adultos.",
-        "picture" :""
+        "picture" : false
     },
     {
-        "name": "Vanessa",
+        "_id": 20,
+        "name": "Vanessa Merces Ataide Maganhato",
         "specialty": "Psicóloga",
-        "register": "",
+        "register": "CRP: 103360",
         "health_plans": "",
         "description": "Psicóloga Clínica há 11 anos, atualmente especializando em Sexualidade Humana, além da Psicopedagogia, Neuropsicopedagogia e Atendimento em Libras. Atendimento em todas as idades. Abordagem Fenomenologia Existêncial.A Psicologia é a razão do meu Viver, poder auxiliar o Ser Humano em seu processo de Construção e ver os resultados é um prazer imensurável",
-        "picture" :"https://ch3302files.storage.live.com/y4mUdb4XYQFtYVrKo0zCPV95wbNoJYKVEPJhasUD_3Ptyf-Qw-Ahnuvfb1BmC_FLPMwMaMjCPEl7r6SrIIxHvaW7bg9k-oRADD_vZIwZVwbLK7KQAv4hIBgZVtN90G5fGaUeCC86j30FnU_KRDBR13OS4dgfYFGvL9fNgLAjfz0ToH2vLdnoL6WvVb2Ums6T5lX?width=780&height=762&cropmode=none"
+        "picture" : true
     },
     {
+        "_id": 21,
         "name": "Vânia Elme",
         "specialty": "Psicóloga",
         "register": "CRP 67628",
         "health_plans": "",
         "description": "Psicóloga graduada em 1996 pela Universidade Brás Cubas em Mogi das Cruzes/SP. Atendimento especializado à mulheres na fase madura. Na busca do autoconhecimento e resgate da sua autoestima nesta nova fase da vida! Bem como auxiliar no processo de adaptação às mudanças fisicas, mentais, sociais, profissionais, amorosas e maternal!",
-        "picture" :"https://ch3302files.storage.live.com/y4mfUWMSFnuu0XcyEP4lQHhCZIw7AOIVCcbPXfXX9OB5GUZFznkEmwpWCbr-EzSmmoTi0sZaUWb-5oMev05Jm2DbUPhS_k3fsGSxGeuCPzJvws4SlP1H73eiMwWJC02ynfziBxqLh7kluowWIoVcD080obtjh_fZYsBeEFmtvPz56p3UA6RV7HUvQTWf04gH22K?width=345&height=373&cropmode=none"
+        "picture" : true
+    },
+    {
+        "_id": 22,
+        "name": "Dominique Ferraz Suenaga",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga formada com abordagem cognitivo comportamental, extensão em depressão e ansiedade e análise do comportamento aplicado ao ABA. Formação em Recursos Humanos com vivência em orientação de carreira, testes vocacionais e psicológicos. Pós-graduanda em Neuropsicologia no Albert Einstein,  conclusão em agosto/2021. Atendimento infantil a partir dos 4 anos e adultos.",
+        "picture": true
+    },
+    {
+        "_id": 23,
+        "name": "Cristiane Almeida",
+        "specialty": "Terapeuta",
+        "register": "",
+        "health_plans": "",
+        "description": "Terapeuta Integrativa, Master Reiki. Terapeuta reikiana, orientadora e facilitadora intuitiva, auxiliando na transformação energética e prática, com a melhora de padrão vibratório, através da terapia holística. O Reiki é um conjunto de técnicas de tratamento natural e seguro de harmonização e reposição energética. Traz equilíbrio físico-mental-emocional e bem-estar, melhorando o padrão vibratório. O Reiki não tem contra-indicação quanto a idade ou qualquer quadro de saúde, podendo ser aliado aos tratamentos médicos e convencionais. (O Reiki não dispensa, nem substitui tratamentos médicos e não possui vínculo religioso.)",
+        "picture" : true
+    },
+    {
+        "_id": 24,
+        "name": "Anna Carmela",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga com abordagem Psicanalítica. Adolescentes e Adultos",
+        "picture" : true
+    },
+    {
+        "_id": 25,
+        "name": "Marcelle Pereira",
+        "specialty": "Terapeuta Sistêmica",
+        "register": "",
+        "health_plans": "",
+        "description": "Terapeuta sistêmica, pós graduada em terapia integrativa, com especialização em neurolinguística, hipnose ericksoniana, leader and Manager, Analista Comportamental, com formação psicanalítica. Atendimento voltado para o desenvolvimento do autoconhecimento, saúde e bem estar, inteligência emocional e alta performance. Público: adultos (dependendo da avaliação do caso, com público masculino).",
+        "picture" : true
+    },
+    {
+        "_id": 26,
+        "name": "Marise Cristina Marcolan Sampaio",
+        "specialty": "",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicanalista. Atendimento para adolescentes e adultos.",
+        "picture" : true
+    },
+    {
+        "_id": 27,
+        "name": "Marcia Erika Nakamura",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga, formada pela Unimep, em 2007. Formação como psicodramatista pela ABPS (Associação Brasileira de Psicodrama e Sociodrama), nível I. Atendimento voltado para tratamentos de transtornos e desenvolvimento para o autoconhecimento. Psicoterapia individual e grupal (até 8 pessoas), processual ou temático. Psicodrama público tematizado e discussão de casos. Atendimento em adolescentes ( a partir de 14 anos), adultos (individual ou grupal).",
+        "picture" : true
+    },
+    {
+        "_id": 28,
+        "name": "Caroline Mendes",
+        "specialty": "Psicóloga",
+        "register": "CRP 85599",
+        "health_plans": "",
+        "description": "Psicóloga formada há 15 anos pela Universidade Presbiteriana Mackenzie-SP, e Pós Graduada em Psicanálise e Linguagem na PUC-SP. Realizo Atendimentos Online e Presencial, com foco em atendimento a Adultos. Meus atendimentos têm como objetivo desenvolver processos de autoconhecimento, autoestima, reelaboração de conflitos familiares e abandono afetivo. Atuo também com transtornos de Ansiedade e Depressão. Minha abordagem tem como base a Teoria Cognitivo Comportamental (TCC). Além dos atendimentos clínicos, também realizo trabalho de Consultoria em empresas voltado a Gestão de Pessoas, Palestras e Treinamentos. Tendo como foco Desenvolvimento Humano e Saúde Mental.",
+        "picture" : true
+    },
+    {
+        "_id": 29,
+        "name": "Andreia Guimarães Scatigno",
+        "specialty": "CRP 82192",
+        "register": "",
+        "health_plans": "",
+        "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
+        "picture" : true
     }
 ]
 
