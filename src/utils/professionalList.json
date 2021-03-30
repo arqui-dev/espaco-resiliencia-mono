@@ -105,7 +105,7 @@
         "register": "CRP: 06/119915",
         "health_plans": "",
         "description": "Graduada em psicologia e especialista em Psicoterapia Breve Operacionalizada com Orientação Psicanalítica pela Universidade Paulista de Sorocaba. Experiência no atendimento a vítimas de violência e questões relacionadas ao uso de substâncias psicoativas. Atendimento à crianças, adolescentes e adultos",
-        "picture" : false
+        "picture" : true
     },
     {
         "_id": 12,
@@ -195,6 +195,78 @@
         "register": "CRP 67628",
         "health_plans": "",
         "description": "Psicóloga graduada em 1996 pela Universidade Brás Cubas em Mogi das Cruzes/SP. Atendimento especializado à mulheres na fase madura. Na busca do autoconhecimento e resgate da sua autoestima nesta nova fase da vida! Bem como auxiliar no processo de adaptação às mudanças fisicas, mentais, sociais, profissionais, amorosas e maternal!",
+        "picture" : true
+    },
+    {
+        "_id": 22,
+        "name": "Dominique Ferraz Suenaga",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga formada com abordagem cognitivo comportamental, extensão em depressão e ansiedade e análise do comportamento aplicado ao ABA. Formação em Recursos Humanos com vivência em orientação de carreira, testes vocacionais e psicológicos. Pós-graduanda em Neuropsicologia no Albert Einstein,  conclusão em agosto/2021. Atendimento infantil a partir dos 4 anos e adultos.",
+        "picture": true
+    },
+    {
+        "_id": 23,
+        "name": "Cristiane Almeida",
+        "specialty": "Terapeuta",
+        "register": "",
+        "health_plans": "",
+        "description": "Terapeuta Integrativa, Master Reiki. Terapeuta reikiana, orientadora e facilitadora intuitiva, auxiliando na transformação energética e prática, com a melhora de padrão vibratório, através da terapia holística. O Reiki é um conjunto de técnicas de tratamento natural e seguro de harmonização e reposição energética. Traz equilíbrio físico-mental-emocional e bem-estar, melhorando o padrão vibratório. O Reiki não tem contra-indicação quanto a idade ou qualquer quadro de saúde, podendo ser aliado aos tratamentos médicos e convencionais. (O Reiki não dispensa, nem substitui tratamentos médicos e não possui vínculo religioso.)",
+        "picture" : true
+    },
+    {
+        "_id": 24,
+        "name": "Anna Carmela",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga com abordagem Psicanalítica. Adolescentes e Adultos",
+        "picture" : true
+    },
+    {
+        "_id": 25,
+        "name": "Marcelle Pereira",
+        "specialty": "Terapeuta Sistêmica",
+        "register": "",
+        "health_plans": "",
+        "description": "Terapeuta sistêmica, pós graduada em terapia integrativa, com especialização em neurolinguística, hipnose ericksoniana, leader and Manager, Analista Comportamental, com formação psicanalítica. Atendimento voltado para o desenvolvimento do autoconhecimento, saúde e bem estar, inteligência emocional e alta performance. Público: adultos (dependendo da avaliação do caso, com público masculino).",
+        "picture" : true
+    },
+    {
+        "_id": 26,
+        "name": "Marise Cristina Marcolan Sampaio",
+        "specialty": "",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicanalista. Atendimento para adolescentes e adultos.",
+        "picture" : true
+    },
+    {
+        "_id": 27,
+        "name": "Marcia Erika Nakamura",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Psicóloga, formada pela Unimep, em 2007. Formação como psicodramatista pela ABPS (Associação Brasileira de Psicodrama e Sociodrama), nível I. Atendimento voltado para tratamentos de transtornos e desenvolvimento para o autoconhecimento. Psicoterapia individual e grupal (até 8 pessoas), processual ou temático. Psicodrama público tematizado e discussão de casos. Atendimento em adolescentes ( a partir de 14 anos), adultos (individual ou grupal).",
+        "picture" : true
+    },
+    {
+        "_id": 28,
+        "name": "Caroline Mendes",
+        "specialty": "Psicóloga",
+        "register": "CRP 85599",
+        "health_plans": "",
+        "description": "Psicóloga formada há 15 anos pela Universidade Presbiteriana Mackenzie-SP, e Pós Graduada em Psicanálise e Linguagem na PUC-SP. Realizo Atendimentos Online e Presencial, com foco em atendimento a Adultos. Meus atendimentos têm como objetivo desenvolver processos de autoconhecimento, autoestima, reelaboração de conflitos familiares e abandono afetivo. Atuo também com transtornos de Ansiedade e Depressão. Minha abordagem tem como base a Teoria Cognitivo Comportamental (TCC). Além dos atendimentos clínicos, também realizo trabalho de Consultoria em empresas voltado a Gestão de Pessoas, Palestras e Treinamentos. Tendo como foco Desenvolvimento Humano e Saúde Mental.",
+        "picture" : true
+    },
+    {
+        "_id": 29,
+        "name": "Andreia Guimarães Scatigno",
+        "specialty": "CRP 82192",
+        "register": "",
+        "health_plans": "",
+        "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
         "picture" : true
     }
 ]
