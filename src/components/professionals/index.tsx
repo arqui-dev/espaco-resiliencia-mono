@@ -1,9 +1,6 @@
-import React from "react";
-
 import './masonry.css';
 
 const professionals = require('../../utils/professionalList.json');
-const professionalBucket = "https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/"
 
 export const ProfessionalList = () => {
     return (
