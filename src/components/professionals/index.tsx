@@ -3,6 +3,7 @@ import React from "react";
 import './masonry.css';
 
 const professionals = require('../../utils/professionalList.json');
+const professionalBucket = "https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/"
 
 export const ProfessionalList = () => {
     return (
@@ -16,19 +17,19 @@ export const ProfessionalList = () => {
             </div> 
             <div className="container">
                 <div className="masonry">
-                    {professionals.map((element: { name: string; speciality: string; register: string; picture: string; description: string; }) => {
+                    {professionals.map((element: { name: string; speciality: string; register: string; _id: number; picture: string; description: string; }) => {
                         return(
                             <div className="item">
                                 <div className="card">
                                     <div className="card-content">
                                         <div className="media">
-                                            {element.picture.length > 0 ?
-                                           ( <div className="media-left">
+                                            {element.picture ? ( 
+                                            <div className="media-left">
                                                 <figure className="image is-128x128">
-                                                    <img src={element.picture} alt={element.name}></img>
+                                                    <img src={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element._id + ".jpg"} alt={element.name}></img>
                                                 </figure>
-                                            </div>) 
-                                            :<></> } 
+                                            </div>
+                                            ):<></> } 
                                             <div className="media-content">
                                                 <p className="title is-size-5-desktop is-size-4-tablet is-size-6-mobile">{element.name}</p>
                                                 <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.speciality}{element.register}</p>
