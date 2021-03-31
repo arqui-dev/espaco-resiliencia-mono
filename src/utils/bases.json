@@ -8,11 +8,12 @@
         "maps": ""
     },
     {
+        "_id": 0,
         "name": "",
         "specialty": "",
         "register": "",
         "health_plans": "",
         "description": "",
-        "picture" :""
+        "picture" : false
     }
 ]
