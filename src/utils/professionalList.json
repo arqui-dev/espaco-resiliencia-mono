@@ -108,15 +108,6 @@
         "picture" : true
     },
     {
-        "_id": 12,
-        "name": "Wellington Alencar Carvalho",
-        "specialty": "Psiquiatra",
-        "register": "CRM 120.367",
-        "health_plans": "",
-        "description": "Graduação em Medicina pela USP. Pós graduação em residência de Medicina Interna e Psiquiatria. Especialista em Psiquiatria pela Associação Brasileira de Psiquiatria. Experiência em psiquiatria geral, Atendimento de adolescentes e adultos.  ",
-        "picture" : false
-    },
-    {
         "_id": 13,
         "name": "Fabiana Paulosso Manella",
         "specialty": "Psicóloga Comportamental",
@@ -162,15 +153,6 @@
         "picture" : true
     },
     {
-        "_id": 18,
-        "name": "Elisvania Mendes Lima Zampieri",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06/160080",
-        "health_plans": "",
-        "description": "Psicologa formada pela Universidade de Sorocaba, atendo na abordagem da psicanálise, cursando pós em desenvolvimento infantil pela faculdade metropolitana. Experiência em atendimento de adolescentes e jovens com ansiedade e depressão, crianças a partir de 4 anos e adultos.",
-        "picture" : true
-    },
-    {
         "_id": 19,
         "name": "Roberta Barbero Gabriotti",
         "specialty": "Psicóloga",
@@ -205,15 +187,6 @@
         "health_plans": "",
         "description": "Psicóloga formada com abordagem cognitivo comportamental, extensão em depressão e ansiedade e análise do comportamento aplicado ao ABA. Formação em Recursos Humanos com vivência em orientação de carreira, testes vocacionais e psicológicos. Pós-graduanda em Neuropsicologia no Albert Einstein,  conclusão em agosto/2021. Atendimento infantil a partir dos 4 anos e adultos.",
         "picture": true
-    },
-    {
-        "_id": 23,
-        "name": "Cristiane Almeida",
-        "specialty": "Terapeuta",
-        "register": "",
-        "health_plans": "",
-        "description": "Terapeuta Integrativa, Master Reiki. Terapeuta reikiana, orientadora e facilitadora intuitiva, auxiliando na transformação energética e prática, com a melhora de padrão vibratório, através da terapia holística. O Reiki é um conjunto de técnicas de tratamento natural e seguro de harmonização e reposição energética. Traz equilíbrio físico-mental-emocional e bem-estar, melhorando o padrão vibratório. O Reiki não tem contra-indicação quanto a idade ou qualquer quadro de saúde, podendo ser aliado aos tratamentos médicos e convencionais. (O Reiki não dispensa, nem substitui tratamentos médicos e não possui vínculo religioso.)",
-        "picture" : true
     },
     {
         "_id": 24,
