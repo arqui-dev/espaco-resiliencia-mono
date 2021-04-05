@@ -1,6 +1,6 @@
 import './masonry.css';
 
-const professionals = require('../../utils/professionalList.json');
+import professionals from '../../utils/professionalList.json';
 
 export const ProfessionalList = () => {
     return (
@@ -37,7 +37,7 @@ export const ProfessionalList = () => {
                                 </div>
                             </div>
                         )
-                    })}       
+                    })}
                 </div>
             </div>
         </section>           
