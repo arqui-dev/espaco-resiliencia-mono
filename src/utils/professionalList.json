@@ -144,15 +144,6 @@
         "picture" : true
     },
     {
-        "_id": 17,
-        "name": "Érica Bonfá",
-        "specialty": "Psicóloga",
-        "register": "CRP: 76495",
-        "health_plans": "",
-        "description": "Psicóloga Clínica graduada pela Universidade Presbiteriana Mackenzie. Pós graduação em Psicologia Hospitalar. Especialista em Neuropsicologia. Atendimento em psicoterapia com abordagem psicanalítica e avaliação neuropsicológica para crianças, adolescentes e adultos.",
-        "picture" : true
-    },
-    {
         "_id": 19,
         "name": "Roberta Barbero Gabriotti",
         "specialty": "Psicóloga",
@@ -185,8 +176,8 @@
         "specialty": "Psicóloga",
         "register": "",
         "health_plans": "",
-        "description": "Psicóloga formada com abordagem cognitivo comportamental, extensão em depressão e ansiedade e análise do comportamento aplicado ao ABA. Formação em Recursos Humanos com vivência em orientação de carreira, testes vocacionais e psicológicos. Pós-graduanda em Neuropsicologia no Albert Einstein,  conclusão em agosto/2021. Atendimento infantil a partir dos 4 anos e adultos.",
-        "picture": true
+        "description": "Psicóloga clínica com abordagem Cognitivo-Comportamental (TCC), com extensão em Transtorno de Ansiedade e Depressão pelo Albert Einstein. Pós-graduanda em Neuropsicologia pelo Albert Einstein. Formação em Recursos Humanos, com experiência em desenvolvimento organizacional e orientação de carreira, aplicação de testes para jovens e adultos e processos seletivos. Atendimento infantil a partir de 4 anos, adolescentes e adultos",
+        "picture" : true
     },
     {
         "_id": 24,
