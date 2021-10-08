@@ -232,6 +232,15 @@
         "health_plans": "",
         "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
         "picture" : true
+    },
+    {
+        "_id": 30,
+        "name": "Cristina Strachicini",
+        "specialty": "CRP 06/523965",
+        "register": "",
+        "health_plans": "",
+        "description": "Cristina Strachicini é Psicóloga graduada pela PUCRS, com Especialização Profissional em Psicossomática pela Faculdade de Ciências da Saúde-SP e Pós-graduada em Psicologia Positiva pela PUCRS.Coach Profissional com formação pelo Integrated Coaching Institute. Membro associada e credenciada pela International Coaching Federation.Psicóloga (CRP 06/523965) com abordagem integrativa em Psicossomática e em Psicologia Positiva. Atua há mais de 35 anos no mundo corporativo e na clínica psicológica, com o propósito de apoiar as pessoas na busca do autoconhecimento, saúde, bem-estar e autorrealização.Atendimento em psicoterapia individual e coaching para adultos. Atendimento especializado em inglês e espanhol.",
+        "picture" : true
     }
 ]
 
