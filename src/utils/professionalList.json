@@ -226,11 +226,11 @@
     },
     {
         "_id": 30,
-        "name": " Nires Cristina Strachicini",
+        "name": " Nires <b>CRISTINA</b> Strachicini",
         "specialty": "Psicóloga e coach",
         "register": "CRP 06/523965",
         "health_plans": "",
-        "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduação em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento bilíngue (Espanhol e Inglês).",
+        "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. <b>Pós Graduação</b> em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento <b>bilíngue</b> (Espanhol e Inglês).",
         "picture" : true
     },
     {
@@ -267,6 +267,15 @@
         "register": "",
         "health_plans": "",
         "description": "Formada em Psicologia de Abordagem Psicanalítica. Experiência com casos de ansiedade, depressão, crises de pânico e vivência do luto. Trabalho pautado em percorrer um caminho pela busca de autonomia emocional diante das mais diversas questões, partindo da premissa de que o autoconhecimento possibilita que se torne mais fácil lidar com as questões que nos afligem ou nos causam dor, visto que, a partir do momento que entendemos melhor o que nos faz mal e porque aquilo nos faz mal, se torna mais fácil lidar com as situações. Atendimento particular online e presencial, voltado apenas para maiores de 18 anos.",
+        "picture" : true
+    },
+    {
+        "_id": 35,
+        "name": "Natália Ito",
+        "specialty": "Psiquiatra",
+        "register": "",
+        "health_plans": "",
+        "description": " Médica Psiquiatra, graduada em Medicina pela Universidade São Francisco - Bragança Paulista. Residência Médica em Psiquiatria pelo CAISM de Franco da Rocha (antigo Juquery). Subespecialização em Psiquiatria Geriátrica pela Unifesp. Faz atendimento psiquiátrico geral de adolescentes a partir dos 15 anos de idade, adultos e atendimento especializado em idosos com ênfase em rastreio de Demências.",
         "picture" : true
     }
 ]
