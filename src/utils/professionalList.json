@@ -286,7 +286,27 @@
         "health_plans": "",
         "description": "Sou Clarice Rodrigues, pedagoga especialista em psicopedagogia e neuropsicopedagogia. Meu trabalho é focado na aprendizagem, ou seja, é direcionado a pessoas que tem dificuldades de aprendizagem, independente se tem transtorno, síndrome ou não, sendo apenas um prejuízo ou defasagem escolar, ou seja, atende pessoas com ou sem necessidades especiais educativas porque vai focar no processo de aprendizagem. Também não há limite para a idade já que aprendemos durante toda a nossa vida. Eu vou desenvolver um plano de ação com estratégias especializadas para facilitar o processo de aprendizagem.",
         "picture" : true
+    },
+    {
+        "_id": 37,
+        "name": "Silvana Pereira de Moraes",
+        "specialty": "Neuropsicóloga",
+        "register": "CRP 06/88215",
+        "health_plans": "",
+        "description": "Abordagem Junguina. Pós Graduação em Docência Superior, Educação Especial, Atendimento Especializado AEE, Atendimento em ABA,  Estou concluíndo Neuropsicologia em Abril de 2021.
+        Cursando Pós em Autismo, Mestranda em Intervenção Psicológica do Desenvolvimento na Educação. Atendimento Adulto, Adolescente e crianças.",
+        "picture" : true
+    },
+    {
+        "_id": 38,
+        "name": "Angélica Cristina de Camargo Bittencourt ",
+        "specialty": "Fonoaudióloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Fonoaudióloga formada há 16 anos. Realizou os estudos na área da Saúde Mental pela Unifesp/SP e Dislexia e Distúrbios de Aprendizagem pelo Cefac/SP. Atuou em instituição de Saúde Mental por 14 anos, nos atendimentos de crianças e adolescentes com distúrbios do comportamento. Desde a formação, atende em consultório com experiência na área da linguagem, fala, motricidade oral, leitura e escrita. Atendimento de crianças e adolescentes.",
+        "picture" : true
     }
 ]
+
 
 
