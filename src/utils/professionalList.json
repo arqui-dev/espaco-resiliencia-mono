@@ -114,7 +114,7 @@
         "register": "CRP: 72153",
         "health_plans": "",
         "description": "Pós graduação em Acupuntura Sistêmica Auricular e Acupuntura Quantica Bioenergética. Tratamento com adolescentes e adultos.",
-        "picture" : false
+        "picture" : true
     },
     {
         "_id": 15,
