@@ -305,6 +305,15 @@
         "health_plans": "",
         "description": "Fonoaudióloga formada há 16 anos. Realizou os estudos na área da Saúde Mental pela Unifesp/SP e Dislexia e Distúrbios de Aprendizagem pelo Cefac/SP. Atuou em instituição de Saúde Mental por 14 anos, nos atendimentos de crianças e adolescentes com distúrbios do comportamento. Desde a formação, atende em consultório com experiência na área da linguagem, fala, motricidade oral, leitura e escrita. Atendimento de crianças e adolescentes.",
         "picture" : true
+    },
+    {
+        "_id": 39,
+        "name": "Rosângela de Souza Oliveira",
+        "specialty": "Psicóloga",
+        "register": "CRP 06/163310 ",
+        "health_plans": "",
+        "description": "Psicóloga com atuação Psicanalítica, atende crianças, adolescentes e adultos.  Experiência em traumas, ansiedade, depressão, perdas e luto. Graduada em Psicologia pela Universidade Paulista-UNIP, Pós graduanda em ArteTerapia.",
+        "picture" : true
     }
 ]
 
