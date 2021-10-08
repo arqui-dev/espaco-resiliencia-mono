@@ -241,6 +241,15 @@
         "health_plans": "",
         "description": "Formada há vinte anos em Arte Educação, ainda atuando na área.Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos.Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica.Atendimento de adolescentes e adultos, presencial e online.",
         "picture" : true
+    },
+    {
+        "_id": 32,
+        "name": "Marilda Machado Dos Santos ",
+        "specialty": "Psicóloga",
+        "register": "CRP 06/146-086",
+        "health_plans": "",
+        "description": "•Olá, Sou Psicóloga Clínica Marilda Machado Dos Santos CRP: 06/146-086, trabalho com a abordagem de Orientação Psicanalítica.  Tenho como objetivo de cuidar do Aparelho Psíquico do paciente.  Minhas experiências são com as demandas de transtornos de Ansiedades, Lutos, Depressão. Atendimentos com adolescentes, adultos, idosos e casal. 'Não dê o poder ao medo, ele é apenas um mensageiro. Você sim, é o que tem o poder de mudar suas escolhas.' PSICÓLOGA MARILDA MACHADO.",
+        "picture" : true
     }
 ]
 
