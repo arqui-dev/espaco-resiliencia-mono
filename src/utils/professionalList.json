@@ -275,7 +275,16 @@
         "specialty": "Psiquiatra",
         "register": "",
         "health_plans": "",
-        "description": " Médica Psiquiatra, graduada em Medicina pela Universidade São Francisco - Bragança Paulista. Residência Médica em Psiquiatria pelo CAISM de Franco da Rocha (antigo Juquery). Subespecialização em Psiquiatria Geriátrica pela Unifesp. Faz atendimento psiquiátrico geral de adolescentes a partir dos 15 anos de idade, adultos e atendimento especializado em idosos com ênfase em rastreio de Demências.",
+        "description": "Médica Psiquiatra, graduada em Medicina pela Universidade São Francisco - Bragança Paulista. Residência Médica em Psiquiatria pelo CAISM de Franco da Rocha (antigo Juquery). Subespecialização em Psiquiatria Geriátrica pela Unifesp. Faz atendimento psiquiátrico geral de adolescentes a partir dos 15 anos de idade, adultos e atendimento especializado em idosos com ênfase em rastreio de Demências.",
+        "picture" : true
+    },
+    {
+        "_id": 36,
+        "name": "Clarice Rodrigues",
+        "specialty": "Pedagoga",
+        "register": "",
+        "health_plans": "",
+        "description": "Sou Clarice Rodrigues, pedagoga especialista em psicopedagogia e neuropsicopedagogia. Meu trabalho é focado na aprendizagem, ou seja, é direcionado a pessoas que tem dificuldades de aprendizagem, independente se tem transtorno, síndrome ou não, sendo apenas um prejuízo ou defasagem escolar, ou seja, atende pessoas com ou sem necessidades especiais educativas porque vai focar no processo de aprendizagem. Também não há limite para a idade já que aprendemos durante toda a nossa vida. Eu vou desenvolver um plano de ação com estratégias especializadas para facilitar o processo de aprendizagem.",
         "picture" : true
     }
 ]
