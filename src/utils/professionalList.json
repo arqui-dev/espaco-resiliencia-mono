@@ -117,15 +117,6 @@
         "picture" : false
     },
     {
-        "_id": 14,
-        "name": "Nires Cristina Palhares Castro Strachicini",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06/52396-5",
-        "health_plans": "",
-        "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduanda em Psicologia Positiva pela PUCRS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF.  Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento em Espanhol e Inglês.",
-        "picture" : true
-    },
-    {
         "_id": 15,
         "name": "Cristiane Crispim",
         "specialty": "Psicóloga",
