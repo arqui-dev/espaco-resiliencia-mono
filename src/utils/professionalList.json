@@ -259,6 +259,15 @@
         "health_plans": "",
         "description": "Maria Clarete Bueno Silveira Pires de Almeida é Pedagoga, Psicopedagoga e Neuropsicopedagoga. Tem experiência na área da educação, já atuou na Educação Infantil, Ensino Fundamental e Ensino Superior.",
         "picture" : true
+    },
+    {
+        "_id": 34,
+        "name": "Fabiana Domingues",
+        "specialty": "Psicóloga",
+        "register": "",
+        "health_plans": "",
+        "description": "Formada em Psicologia de Abordagem Psicanalítica. Experiência com casos de ansiedade, depressão, crises de pânico e vivência do luto. Trabalho pautado em percorrer um caminho pela busca de autonomia emocional diante das mais diversas questões, partindo da premissa de que o autoconhecimento possibilita que se torne mais fácil lidar com as questões que nos afligem ou nos causam dor, visto que, a partir do momento que entendemos melhor o que nos faz mal e porque aquilo nos faz mal, se torna mais fácil lidar com as situações. Atendimento particular online e presencial, voltado apenas para maiores de 18 anos.",
+        "picture" : true
     }
 ]
 
