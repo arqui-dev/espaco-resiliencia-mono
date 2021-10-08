@@ -226,11 +226,11 @@
     },
     {
         "_id": 30,
-        "name": "Cristina Strachicini",
-        "specialty": "Psicóloga",
+        "name": " Nires Cristina Strachicini",
+        "specialty": "Psicóloga e coach",
         "register": "CRP 06/523965",
         "health_plans": "",
-        "description": "Cristina Strachicini é Psicóloga graduada pela PUCRS, com Especialização Profissional em Psicossomática pela Faculdade de Ciências da Saúde-SP e Pós-graduada em Psicologia Positiva pela PUCRS.Coach Profissional com formação pelo Integrated Coaching Institute. Membro associada e credenciada pela International Coaching Federation.Psicóloga (CRP 06/523965) com abordagem integrativa em Psicossomática e em Psicologia Positiva. Atua há mais de 35 anos no mundo corporativo e na clínica psicológica, com o propósito de apoiar as pessoas na busca do autoconhecimento, saúde, bem-estar e autorrealização.Atendimento em psicoterapia individual e coaching para adultos. Atendimento especializado em inglês e espanhol.",
+        "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduação em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento bilíngue (Espanhol e Inglês).",
         "picture" : true
     },
     {
@@ -239,7 +239,7 @@
         "specialty": "Psicóloga",
         "register": "CRP 06/130.993",
         "health_plans": "",
-        "description": "Formada há vinte anos em Arte Educação, ainda atuando na área.Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos.Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica.Atendimento de adolescentes e adultos, presencial e online.",
+        "description": "Formada há vinte anos em Arte Educação, ainda atuando na área. Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos. Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica. Atendimento de adolescentes e adultos, presencial e online.",
         "picture" : true
     },
     {
