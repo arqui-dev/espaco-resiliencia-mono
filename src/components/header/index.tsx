@@ -42,7 +42,7 @@ export const Header = () => {
         </div>
         <div className="container has-text-centered-mobile has-text-left">
           <h4 className="has-text-white-ter is-title has-text-weight-light is-size-5-mobile is-size-3-tablet is-size-2">
-            Contamos com profissionais qualificados de Psicologia, Psiquiatria, Psicopedagogia, Neuropsicologia, Fonoaudiologia, Acupuntura e Terapia de Casal e Família.
+            Contamos com profissionais qualificados de Psicologia, Psiquiatria, Psicopedagogia, Neuropsicologia, Neuropsicopedagogia, Fonoaudiologia, Acupuntura e Terapia de Casal e Família.
           </h4>
           <br />
         </div>
