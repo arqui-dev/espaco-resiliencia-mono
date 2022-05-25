@@ -54,30 +54,12 @@
         "picture" : true
     },
     {
-        "_id": 6,
-        "name": "Camila Duarte",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06127067",
-        "health_plans": "",
-        "description": "Psicóloga clínica com abordagem psicanalítica. Graduada em Psicologia pela Universidade Estadual Paulista - UNESP.  Atendimento voltado para o público adolescente e adulto.",
-        "picture" : true
-    },
-    {
         "_id": 7,
         "name": "Bruna Maria Mansano",
         "specialty": "Psicóloga",
         "register": "CRP: 06/85493",
         "health_plans": "",
         "description": "Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. Graduada em Psicologia pela Universidade Paulista de Sorocaba, Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. Atuou como Psicóloga no CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil). Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).",
-        "picture" : true
-    },
-    {
-        "_id": 8,
-        "name": "Odete P. de Oliveira",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06/118870",
-        "health_plans": "",
-        "description": "Psicóloga clínica com abordagem psicanalítica. Atendimento infantil, adolescente e adultos. Graduação em Psicologia Clínica pela Universidade Paulista de Sorocaba. Psicóloga com experiência e capacitação em atendimento a vítimas de violência, física, verbal, bullying entre outros.",
         "picture" : true
     },
     {
@@ -196,15 +178,6 @@
         "picture" : true
     },
     {
-        "_id": 24,
-        "name": "Anna Carmela",
-        "specialty": "Psicóloga",
-        "register": "",
-        "health_plans": "",
-        "description": "Psicóloga com abordagem Psicanalítica. Adolescentes e Adultos",
-        "picture" : true
-    },
-    {
         "_id": 25,
         "name": "Marcelle Pereira",
         "specialty": "Terapeuta Sistêmica",
@@ -220,24 +193,6 @@
         "register": "",
         "health_plans": "",
         "description": "Psicanalista. Atendimento para adolescentes e adultos.",
-        "picture" : true
-    },
-    {
-        "_id": 27,
-        "name": "Marcia Erika Nakamura",
-        "specialty": "Psicóloga",
-        "register": "",
-        "health_plans": "",
-        "description": "Psicóloga, formada pela Unimep, em 2007. Formação como psicodramatista pela ABPS (Associação Brasileira de Psicodrama e Sociodrama), nível I. Atendimento voltado para tratamentos de transtornos e desenvolvimento para o autoconhecimento. Psicoterapia individual e grupal (até 8 pessoas), processual ou temático. Psicodrama público tematizado e discussão de casos. Atendimento em adolescentes ( a partir de 14 anos), adultos (individual ou grupal).",
-        "picture" : true
-    },
-    {
-        "_id": 28,
-        "name": "Caroline Mendes",
-        "specialty": "Psicóloga",
-        "register": "CRP 85599",
-        "health_plans": "",
-        "description": "Psicóloga formada há 15 anos pela Universidade Presbiteriana Mackenzie-SP, e Pós Graduada em Psicanálise e Linguagem na PUC-SP. Realizo Atendimentos Online e Presencial, com foco em atendimento a Adultos. Meus atendimentos têm como objetivo desenvolver processos de autoconhecimento, autoestima, reelaboração de conflitos familiares e abandono afetivo. Atuo também com transtornos de Ansiedade e Depressão. Minha abordagem tem como base a Teoria Cognitivo Comportamental (TCC). Além dos atendimentos clínicos, também realizo trabalho de Consultoria em empresas voltado a Gestão de Pessoas, Palestras e Treinamentos. Tendo como foco Desenvolvimento Humano e Saúde Mental.",
         "picture" : true
     },
     {
@@ -265,15 +220,6 @@
         "register": "CRP 06/130.993",
         "health_plans": "",
         "description": "Formada há vinte anos em Arte Educação, ainda atuando na área. Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos. Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica. Atendimento de adolescentes e adultos, presencial e online.",
-        "picture" : true
-    },
-    {
-        "_id": 32,
-        "name": "Marilda Machado Dos Santos ",
-        "specialty": "Psicóloga",
-        "register": "CRP 06/146-086",
-        "health_plans": "",
-        "description": "Olá, Sou Psicóloga Clínica Marilda Machado Dos Santos CRP: 06/146-086, trabalho com a abordagem de Orientação Psicanalítica.  Tenho como objetivo de cuidar do Aparelho Psíquico do paciente.  Minhas experiências são com as demandas de transtornos de Ansiedades, Lutos, Depressão. Atendimentos com adolescentes, adultos, idosos e casal. ' Não dê o poder ao medo, ele é apenas um mensageiro. Você sim, é o que tem o poder de mudar suas escolhas.' PSICÓLOGA MARILDA MACHADO.",
         "picture" : true
     },
     {
@@ -310,15 +256,6 @@
         "register": "",
         "health_plans": "",
         "description": "Sou Clarice Rodrigues, pedagoga especialista em psicopedagogia e neuropsicopedagogia. Meu trabalho é focado na aprendizagem, ou seja, é direcionado a pessoas que tem dificuldades de aprendizagem, independente se tem transtorno, síndrome ou não, sendo apenas um prejuízo ou defasagem escolar, ou seja, atende pessoas com ou sem necessidades especiais educativas porque vai focar no processo de aprendizagem. Também não há limite para a idade já que aprendemos durante toda a nossa vida. Eu vou desenvolver um plano de ação com estratégias especializadas para facilitar o processo de aprendizagem.",
-        "picture" : true
-    },
-    {
-        "_id": 37,
-        "name": "Silvana Pereira de Moraes",
-        "specialty": "Neuropsicóloga",
-        "register": "CRP 06/88215",
-        "health_plans": "",
-        "description": "Abordagem Junguina. Pós Graduação em Docência Superior, Educação Especial, Atendimento Especializado AEE, Atendimento em ABA. Estou concluíndo Neuropsicologia em Abril de 2021. Cursando Pós em Autismo, Mestranda em Intervenção Psicológica do Desenvolvimento na Educação. Atendimento Adulto, Adolescente e crianças.",
         "picture" : true
     },
     {
