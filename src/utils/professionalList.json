@@ -153,15 +153,6 @@
         "picture" : true
     },
     {
-        "_id": 25,
-        "name": "Marcelle Pereira",
-        "specialty": "Terapeuta Sistêmica",
-        "register": "",
-        "health_plans": "",
-        "description": "Terapeuta sistêmica, pós graduada em terapia integrativa, com especialização em neurolinguística, hipnose ericksoniana, leader and Manager, Analista Comportamental, com formação psicanalítica. Atendimento voltado para o desenvolvimento do autoconhecimento, saúde e bem estar, inteligência emocional e alta performance. Público: adultos (dependendo da avaliação do caso, com público masculino).",
-        "picture" : true
-    },
-    {
         "_id": 26,
         "name": "Marise Cristina Marcolan Sampaio",
         "specialty": "",
