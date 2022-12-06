@@ -172,15 +172,7 @@
         "description": "Formada há vinte anos em Arte Educação, ainda atuando na área. Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos. Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica. Atendimento de adolescentes e adultos, presencial e online.",
         "picture" : true
     },
-    {
-        "_id": 33,
-        "name": "Maria Clarete Bueno Silveira Pires",
-        "specialty": "Pedagoga, Psicopedagoga e Neuropsicopedagoga",
-        "register": "",
-        "health_plans": "",
-        "description": "Maria Clarete Bueno Silveira Pires de Almeida é Pedagoga, Psicopedagoga e Neuropsicopedagoga. Tem experiência na área da educação, já atuou na Educação Infantil, Ensino Fundamental e Ensino Superior.",
-        "picture" : true
-    },
+  
     {
         "_id": 34,
         "name": "Fabiana Domingues",
