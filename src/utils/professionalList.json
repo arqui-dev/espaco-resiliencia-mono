@@ -71,15 +71,7 @@
         "description": " Psicóloga Clínica, realiza atendimentos a adolescentes e adultos. Especialização em Terapia Cognitivo Comportamental pelo CETCC. Especialização em Artetetapia pelo NAPE - FAVI. Formação em Psicologia Hospitalar pela PUC - SP. Aprimoramento em Psicoterapia de Grupo pelo EPPA. Aprimoramento em gravidez, parto e puerpério (aspectos psicológicos) pelo Instituto Sedes Sapientiae.  Aprimoramento em Suicídio e Manejo do Comportamento Suicida ministrado pela psicóloga Dra. Karina Okajima Fukumitsu. Curso de Capacitação em Terapia Online - Instituto Terapia Online.",
         "picture" : true
     },
-    {
-        "_id": 10,
-        "name": "Edivânia J. de A. Moura",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06/119021",
-        "health_plans": "",
-        "description": "Terapeuta Sistêmica de Casal e Família. Coordenadora de Grupos Operativos. Atendimentos voltados à Casal ou família, vivenciando conflitos; no intuito de um novo olhar para o modo que sempre utilizaram para resolução dos problemas relacionais e não continuam eficazes. Adolescentes; visando percepção de sua fase de transição, com estimulação ao autoconhecimento e fortalecimento de suas potências. Também, adolescentes em conflito com a Lei – Prática Infracional. Adulto e criança; objetivando clareamento de seus sentimentos, frente suas relações e o que considera problema. Formação: Psicologia - Universidade Paulista Instituto Integrar “Pensar, Sentir e Agir”. Instituto Sistemas Humanos – Práticas Sistêmicas  Cursos:  Curso do Teste HTP – Desenho da Casa, Árvore, Pessoa – Realização: Vetor editora.  Curso de Avaliação Psicológica e Elaboração de Laudos – Realização: Vetor editora.  Curso de Gerontologia: Introdução à Clínica do Envelhecimento – Realização: “Psicologia do Cotidiano”.  Curso de Aperfeiçoamento em Crack e outras Drogas – Realização: CRR-UFSCar-Sorocaba.  Curso “Saúde da População Negra” – Realização UNA-SUS.  Seminários:   Criança e Adolescente – Ato Infracional. (OAB – Departamento de Cultura e Eventos)  Drogas e Direitos Humanos: a construção de redes humanizadas de atenção e cuidado. Realização CRR-UFSCar-Soroca e CRP: – Conselho Regional de Psicologia SP, em parceria com a Defensoria Pública do Estado de São Paulo.  Eventos: Psicologia em Interface com a Justiça: “Contribuições da Psicologia nos caminhos do judiciário: da destituição  poder familiar à adoção”. CRP:/SP   Mestre “Cuca” na dissertação e mestrado “Lacan e o Estruturalismo” – Maria Cristina Merlin Felizola. Encontro de Saúde Mental da Infância e Adolescência – Realização Associação Pró Reintegração Social da Criança.   Palestras:   “120 anos de Abolição: o que mudou?” – Escola para Formação e Capacitação Profissional da Fundação CASA – SP  ",
-        "picture" : true
-    },
+    
     {
         "_id": 11,
         "name": "Luciana A. A. Pires",
