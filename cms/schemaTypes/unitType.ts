@@ -6,23 +6,28 @@ export const unitType = defineType({
   type: 'document',
   fields: [
     defineField({
-      name: 'nome',
+      name: 'name',
+      title: 'Nome',
       type: 'string',
     }),
     defineField({
-        name: 'endereco',
+        name: 'adress',
+        title: 'Endereço',
         type: 'string',
       }),
     defineField({
         name: 'gmaps',
+        title: 'Google Maps',
         type: 'url',
       }),
     defineField({
-        name: 'telefone',
+        name: 'phone',
+        title: 'Telefone',
         type: 'string',
       }),
     defineField({
         name: 'whatsapp',
+        title: 'URL do Whatsapp',
         type: 'url',
       })
   ],
