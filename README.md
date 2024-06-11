@@ -4,9 +4,9 @@
 
 ## Projetos
 
-- Website: SPA feita em React com bulma UI. Migrando para Next.js com Tailwind.
-- CMS: Utilizamos o Sanity com nosso CMS. Esse subrepo contém o código e o deploy do nosso sanity studio.
-- Design System: Storybook com os componentes criados para o projeto.
+- [site](./site/): SPA feita em React com bulma UI. Migrando para Next.js com Tailwind.
+- [CMS](./cms/): Utilizamos o Sanity com nosso CMS. Esse subrepo contém o código e o deploy do nosso sanity studio.
+- [web](./web/): Storybook com os componentes criados para o projeto.
 
 ## Trabalhando com esse repo
 
