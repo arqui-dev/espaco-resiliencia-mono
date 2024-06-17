@@ -29,6 +29,11 @@ export const unitType = defineType({
         name: 'whatsapp',
         title: 'URL do Whatsapp',
         type: 'url',
+      }),
+    defineField({
+        name: 'photo',
+        title: 'Foto da Unidade',
+        type: 'image',
       })
   ],
 })
